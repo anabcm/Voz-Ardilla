@@ -1,0 +1,47 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Tue Oct 01 14:11:15 2013
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000002
+                   .org_2       code   0x000004    program   0x000076
+.config_2007_VOZARDILLA.O       code   0x002007    program   0x000002
+.config_2008_VOZARDILLA.O       code   0x002008    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000000      
+                            0x000004    0x00003e      
+                            0x002007    0x002008      
+            62 out of 8455 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    CICLO   0x00001d    program     static C:\Users\Ana Bertha\Dropbox\Maestría en Ciencias de la Computación\Semestre 1\Sistemas de Computo\VozArdilla\vozArdilla.asm
+                   FININT   0x00003a    program     static C:\Users\Ana Bertha\Dropbox\Maestría en Ciencias de la Computación\Semestre 1\Sistemas de Computo\VozArdilla\vozArdilla.asm
+                   INICIO   0x000005    program     static C:\Users\Ana Bertha\Dropbox\Maestría en Ciencias de la Computación\Semestre 1\Sistemas de Computo\VozArdilla\vozArdilla.asm
+                    INTAD   0x000034    program     static C:\Users\Ana Bertha\Dropbox\Maestría en Ciencias de la Computación\Semestre 1\Sistemas de Computo\VozArdilla\vozArdilla.asm
+                    INTER   0x00001f    program     static C:\Users\Ana Bertha\Dropbox\Maestría en Ciencias de la Computación\Semestre 1\Sistemas de Computo\VozArdilla\vozArdilla.asm
+                  INTTMR0   0x000027    program     static C:\Users\Ana Bertha\Dropbox\Maestría en Ciencias de la Computación\Semestre 1\Sistemas de Computo\VozArdilla\vozArdilla.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   INICIO   0x000005    program     static C:\Users\Ana Bertha\Dropbox\Maestría en Ciencias de la Computación\Semestre 1\Sistemas de Computo\VozArdilla\vozArdilla.asm
+                    CICLO   0x00001d    program     static C:\Users\Ana Bertha\Dropbox\Maestría en Ciencias de la Computación\Semestre 1\Sistemas de Computo\VozArdilla\vozArdilla.asm
+                    INTER   0x00001f    program     static C:\Users\Ana Bertha\Dropbox\Maestría en Ciencias de la Computación\Semestre 1\Sistemas de Computo\VozArdilla\vozArdilla.asm
+                  INTTMR0   0x000027    program     static C:\Users\Ana Bertha\Dropbox\Maestría en Ciencias de la Computación\Semestre 1\Sistemas de Computo\VozArdilla\vozArdilla.asm
+                    INTAD   0x000034    program     static C:\Users\Ana Bertha\Dropbox\Maestría en Ciencias de la Computación\Semestre 1\Sistemas de Computo\VozArdilla\vozArdilla.asm
+                   FININT   0x00003a    program     static C:\Users\Ana Bertha\Dropbox\Maestría en Ciencias de la Computación\Semestre 1\Sistemas de Computo\VozArdilla\vozArdilla.asm
+
+
